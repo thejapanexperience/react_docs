@@ -1,0 +1,41 @@
+{
+  "name": "react_docs",
+  "version": "1.0.0",
+  "description": "[reactjs.org](https://reactjs.org/)",
+  "main": "testpad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flow": "flow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejapanexperience/react_docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejapanexperience/react_docs/issues"
+  },
+  "homepage": "https://github.com/thejapanexperience/react_docs#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.5",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-with-prettier": "^3.5.1",
+    "eslint-plugin-flowtype": "^2.49.3",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-prettier": "^2.6.1",
+    "eslint-plugin-react": "^7.9.1",
+    "flow-bin": "^0.75.0",
+    "prettier": "^1.13.5",
+    "react-test-renderer": "^16.4.1",
+    "webpack": "^4.12.0"
+  },
+  "dependencies": {
+    "styled-components": "^3.3.3"
+  }
+}
